@@ -1,0 +1,13 @@
+P:\P3starter\P3starter\bin\Release\P3starter.exe.config
+P:\P3starter\P3starter\bin\Release\P3starter.exe
+P:\P3starter\P3starter\bin\Release\P3starter.pdb
+P:\P3starter\P3starter\bin\Release\Newtonsoft.Json.dll
+P:\P3starter\P3starter\bin\Release\Newtonsoft.Json.xml
+P:\P3starter\P3starter\obj\Release\P3starter.Form1.resources
+P:\P3starter\P3starter\obj\Release\P3starter.Properties.Resources.resources
+P:\P3starter\P3starter\obj\Release\P3starter.csproj.GenerateResource.cache
+P:\P3starter\P3starter\obj\Release\P3starter.csproj.CoreCompileInputs.cache
+P:\P3starter\P3starter\obj\Release\P3starter.csproj.CopyComplete
+P:\P3starter\P3starter\obj\Release\P3starter.exe
+P:\P3starter\P3starter\obj\Release\P3starter.pdb
+P:\P3starter\P3starter\obj\Release\P3starter.csprojAssemblyReference.cache
